@@ -32,7 +32,6 @@ efficient and scalable web solutions. I specialize in building robust REST APIs 
 ## 🔧 Technologies I Work With:
 
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php)
-![PHP](https://img.shields.io/badge/-PHPOOP-333333?style=for-the-badge&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
 ![Laravel](https://img.shields.io/badge/-LARAVEL-333333?style=for-the-badge&logo=laravel)
 ![Docker](https://img.shields.io/badge/-DOCKER-333333?style=for-the-badge&logo=docker)
@@ -59,13 +58,14 @@ efficient and scalable web solutions. I specialize in building robust REST APIs 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=madebydima&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=madebydima&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=445&langs_count=8)
 
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=madebydima&theme=onedark)](https://github.com/madebydima)
+-->
 
-
-
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=madebydima&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
 ## 📫 Get in Touch:
 
 - LinkedIn: https://www.linkedin.com/in/madebydima/
