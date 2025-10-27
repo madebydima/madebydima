@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 - 💼 **Full-Stack Developer** with over **13 years** of experience, specializing in **Vue.js** (7+ years of commercial experience with complex systems)
 - 🎯 **Core Stack**: Vue.js 2/3 • Laravel • Golang • MySQL • Docker
-- 🏆 **Indie Hacker**: Solo founder of **[JustScreener](https://bullshitapp.com)** - a high-load cryptocurrency screener processing **8,000+ trading pairs**每分钟
+- 🏆 **Indie Hacker**: Solo founder of **[JustScreener](https://bullshitapp.com)** - a high-load cryptocurrency screener processing **8,000+ trading pairs**
 - 📈 **Architecture Champion**: Successfully migrated JustScreener from PHP/Laravel to Golang, achieving **significant performance boost** and **infrastructure cost reduction**
 - 🌱 **Currently exploring**: Advanced microservices patterns and high-frequency data processing
-- 💡 **Fun Fact**: My pet project now serves **5,000+ monthly active users** and sends **1,000+ Telegram messages每分钟** - all built and maintained solo!
+- 💡 **Fun Fact**: My pet project now serves **5,000+ monthly active users** and sends **30,000+ Telegram messages** - all built and maintained solo!
 
 ## 🛠️ Tech Stack
 
@@ -63,17 +63,37 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+
 ## 🎯 JustScreener - My Indie Startup Journey
 
 > **From local script to production powerhouse**
 
-```python
-# What JustScreener does every minute:
-def just_screener_magic():
-    collect_data(8000)        # crypto pairs from major exchanges
-    process_analytics()       # real-time data processing
-    send_messages(1000)       # Telegram notifications
-    repeat_every_minute()     # 24/7 reliability
+```go
+package main
+
+// JustScreenerEngine handles high-frequency crypto data
+type JustScreenerEngine struct {
+    pairsProcessed    int    // 8,000+ crypto pairs
+    messagesSent      int    // 1,000+ Telegram messages
+    activeUsers       int    // 5,000+ monthly users
+    processingTime    string // "every minute"
+}
+
+func (j *JustScreenerEngine) Run() {
+    for {
+        j.collectMarketData()    // From major exchanges
+        j.processAnalytics()     // Real-time calculations
+        j.sendUserNotifications()// Telegram bots
+        time.Sleep(time.Minute)  // 24/7 reliability
+    }
+}
+
+// Results after Go migration:
+// ⚡ 7x performance improvement
+// 🚀 10x scale: 700 → 8,000+ pairs
+// 🌐 9 exchanges vs initial 4
+// 💰 60% infrastructure cost reduction
+// 📈 Added spot market coverage
 ```
 
 **Key Achievements:**
