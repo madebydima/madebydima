@@ -13,64 +13,100 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Dima ! 👋
-I'm a seasoned and highly motivated developer based in Moscow, with over 13 years of experience in creating 
-efficient and scalable web solutions. I specialize in building robust REST APIs and spend the majority of my time working on backend systems. Here’s a little more about me::
+<!--
+**madebydima/madebydima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-- 🎓 With 42 years of life experience, I’ve dedicated over a decade to frontend development.
-- 💻 My primary focus is on creating RESTFull services using powerful frontend and backend technologies.
-- 🌟 Skilled in designing and optimizing databases, server-side logic, and scalable APIs for high-performance 
-  applications.
-- 🔄 Strong expertise in API architecture and ensuring seamless integration across systems.
-- 🌐 I am passionate about continuous learning and always keeping up-to-date with the latest technologies and 
-  best practices.
-- 🤝 Open to collaborating on projects, mentoring, and contributing to the tech community.
+<h1 align="center">Hello there! I'm Dima 👋</h1>
+<h3 align="center">A Passionate Full-Stack Developer with 13+ Years of Crafting Digital Solutions</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/madebydima/)
+<p align="center">
+  <i>From Moscow with code 💻 • Turning coffee into scalable applications ☕ • Vue.js enthusiast since 2017 🚀</i>
+</p>
 
-## 🔧 Technologies I Work With:
+---
 
-![PHP](https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
-![Laravel](https://img.shields.io/badge/-LARAVEL-333333?style=for-the-badge&logo=laravel)
-![Docker](https://img.shields.io/badge/-DOCKER-333333?style=for-the-badge&logo=docker)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3)
-![bootstrap](https://img.shields.io/badge/-BOOTSTRAP-333333?style=for-the-badge&logo=bootstrap)
-![Git / GitHub](https://img.shields.io/badge/-Git/GitHub-333333?style=for-the-badge&logo=github)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
-![Nginx](https://img.shields.io/badge/-Nginx-333333?style=for-the-badge&logo=nginx)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=for-the-badge&logo=jira)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
-![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=for-the-badge&logo=jenkins)
-![Scrum](https://img.shields.io/badge/-Scrum-333333?style=for-the-badge&logo=agile)
+## 🚀 About Me
+
+- 💼 **Full-Stack Developer** with over **13 years** of experience, specializing in **Vue.js** (7+ years of commercial experience with complex systems)
+- 🎯 **Core Stack**: Vue.js 2/3 • Laravel • Golang • MySQL • Docker
+- 🏆 **Indie Hacker**: Solo founder of **[JustScreener](https://bullshitapp.com)** - a high-load cryptocurrency screener processing **8,000+ trading pairs**每分钟
+- 📈 **Architecture Champion**: Successfully migrated JustScreener from PHP/Laravel to Golang, achieving **significant performance boost** and **infrastructure cost reduction**
+- 🌱 **Currently exploring**: Advanced microservices patterns and high-frequency data processing
+- 💡 **Fun Fact**: My pet project now serves **5,000+ monthly active users** and sends **1,000+ Telegram messages每分钟** - all built and maintained solo!
+
+## 🛠️ Tech Stack
+
+### **Frontend Expertise**
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![REST](https://img.shields.io/badge/-REST-333333?style=for-the-badge&logo=rest)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=for-the-badge&logo=graphql)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-333333?style=for-the-badge&logo=websocket)
 ![OAuth](https://img.shields.io/badge/-OAuth-333333?style=for-the-badge&logo=oauth)
-![YAML](https://img.shields.io/badge/-YAML-333333?style=for-the-badge&logo=yaml)
-![JSON](https://img.shields.io/badge/-JSON-333333?style=for-the-badge&logo=json)  
 
+### **Backend Power**
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=madebydima&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=madebydima&theme=dracula&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madebydima&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=445&langs_count=8)
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Git / GitHub](https://img.shields.io/badge/-Git/GitHub-333333?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=madebydima&theme=onedark)](https://github.com/madebydima)
--->
+## 🎯 JustScreener - My Indie Startup Journey
 
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=madebydima&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
-## 📫 Get in Touch:
+> **From local script to production powerhouse**
 
-- LinkedIn: https://www.linkedin.com/in/madebydima/
-- Email: madebydima@yandex.com
+```python
+# What JustScreener does every minute:
+def just_screener_magic():
+    collect_data(8000)        # crypto pairs from major exchanges
+    process_analytics()       # real-time data processing
+    send_messages(1000)       # Telegram notifications
+    repeat_every_minute()     # 24/7 reliability
+```
 
-Feel free to connect with me and explore my projects. I'm always open to networking and collaborating on interesting projects. Let's code something awesome together! 🚀
+**Key Achievements:**
+- 🚀 **Solo Development**: Single-handedly built everything from design to deployment
+- 📊 **High-Load Architecture**: Processes millions of data points daily
+- 💰 **Cost Optimization**: Reduced infrastructure costs by migrating to Golang
+- 👥 **Growing Community**: Serving 5,000+ monthly active traders
+- 🔄 **Real-time Processing**: Minute-by-minute market analysis and alerts
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=madebydima&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=madebydima&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=madebydima&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8)
+
+</div>
+
+## 📫 Let's Connect!
+
+- 💼 **LinkedIn**: [madebydima](https://www.linkedin.com/in/madebydima/)
+- 📧 **Email**: [madebydima@yandex.com](mailto:madebydima@yandex.com)
+- 🔗 **Project**: [JustScreener](https://bullshitapp.com)
+
+---
+
+<div align="center">
+
+### 💻 *"First, solve the problem. Then, write the code."* - John Johnson
+
+⭐ **Fun Fact**: I've been coding since some of today's popular frameworks didn't even exist!
+
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=madebydima&icon=0&color=6)](https://visitcount.itsvg.in)
