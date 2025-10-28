@@ -103,6 +103,7 @@ func (j *JustScreenerEngine) Run() {
 - 👥 **Growing Community**: Serving 5,000+ monthly active traders
 - 🔄 **Real-time Processing**: Minute-by-minute market analysis and alerts
 
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -112,12 +113,13 @@ func (j *JustScreenerEngine) Run() {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=madebydima&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8)
 
 </div>
+-->
 
 ## 📫 Let's Connect!
 
 - 💼 **LinkedIn**: [madebydima](https://www.linkedin.com/in/madebydima/)
 - 📧 **Email**: [madebydima@yandex.com](mailto:madebydima@yandex.com)
-- 🔗 **Project**: [JustScreener](https://bullshitapp.com)
+- 🔗 **Projects:**: [JustScreener](https://bullshitapp.com), [My Aerial](https://myaerial.ru), 
 
 ---
 
@@ -129,4 +131,4 @@ func (j *JustScreenerEngine) Run() {
 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=madebydima&icon=0&color=6)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=madebydima&icon=0&color=6)](https://visitcount.itsvg.in)-->
