@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 💼 **Full-Stack Developer** with over **13 years** of experience, specializing in **Vue.js** (7+ years of commercial experience with complex systems)
 - 🎯 **Core Stack**: Vue.js 2/3 • Laravel • Golang • MySQL • Docker
-- 🏆 **Indie Hacker**: Solo founder of **[JustScreener](https://bullshitapp.com)** - a high-load cryptocurrency screener processing **8,000+ trading pairs**
+- 🏆 **Indie Hacker**: Solo founder of **[JustScreener](https://bullshitapp.com)** - a high-load cryptocurrency screener processing **4,000+ trading pairs**
 - 📈 **Architecture Champion**: Successfully migrated JustScreener from PHP/Laravel to Golang, achieving **significant performance boost** and **infrastructure cost reduction**
 - 🌱 **Currently exploring**: Advanced microservices patterns and high-frequency data processing
 - 💡 **Fun Fact**: My pet project now serves **5,000+ monthly active users** and sends **30,000+ Telegram messages** - all built and maintained solo!
@@ -73,7 +73,7 @@ package main
 
 // JustScreenerEngine handles high-frequency crypto data
 type JustScreenerEngine struct {
-    pairsProcessed    int    // 8,000+ crypto pairs
+    pairsProcessed    int    // 4,000+ crypto pairs
     messagesSent      int    // 1,000+ Telegram messages
     activeUsers       int    // 5,000+ monthly users
     processingTime    string // "every minute"
@@ -90,7 +90,7 @@ func (j *JustScreenerEngine) Run() {
 
 // Results after Go migration:
 // ⚡ 7x performance improvement
-// 🚀 10x scale: 700 → 8,000+ pairs
+// 🚀 10x scale: 700 → 4,000+ pairs
 // 🌐 9 exchanges vs initial 4
 // 💰 60% infrastructure cost reduction
 // 📈 Added spot market coverage
