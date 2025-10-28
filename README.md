@@ -119,7 +119,7 @@ func (j *JustScreenerEngine) Run() {
 
 - 💼 **LinkedIn**: [madebydima](https://www.linkedin.com/in/madebydima/)
 - 📧 **Email**: [madebydima@yandex.com](mailto:madebydima@yandex.com)
-- 🔗 **Projects:**: [JustScreener](https://bullshitapp.com), [My Aerial](https://myaerial.ru), 
+- 🔗 **Projects:**: [JustScreener](https://bullshitapp.com), [My Aerial](https://myaerial.ru)
 
 ---
 
