@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 💼 **Full-Stack Developer** with over **13 years** of experience, specializing in **Vue.js** (7+ years of commercial experience with complex systems)
 - 🎯 **Core Stack**: Vue.js 2/3 • Laravel • Golang • MySQL • Docker
-- 🏆 **Indie Hacker**: Solo founder of **[JustScreener](https://bullshitapp.com)** - a high-load cryptocurrency screener processing **4,000+ trading pairs**
+- 🏆 **Indie Hacker**: Solo founder of **<a href="https://bullshitapp.com" target="_blank">JustScreener</a>** - a high-load cryptocurrency screener processing **4,000+ trading pairs**
 - 📈 **Architecture Champion**: Successfully migrated JustScreener from PHP/Laravel to Golang, achieving **significant performance boost** and **infrastructure cost reduction**
 - 🌱 **Currently exploring**: Advanced microservices patterns and high-frequency data processing
 - 💡 **Fun Fact**: My pet project now serves **5,000+ monthly active users** and sends **30,000+ Telegram messages** - all built and maintained solo!
@@ -117,9 +117,9 @@ func (j *JustScreenerEngine) Run() {
 
 ## 📫 Let's Connect!
 
-- 💼 **LinkedIn**: [madebydima](https://www.linkedin.com/in/madebydima/)
-- 📧 **Email**: [madebydima@yandex.com](mailto:madebydima@yandex.com)
-- 🔗 **Projects:**: [JustScreener](https://bullshitapp.com), [My Aerial](https://myaerial.ru)
+- 💼 **LinkedIn**: <a href="https://www.linkedin.com/in/madebydima/" tagret="_blank">madebydima</a>
+- 📧 **Email**: <a href="mailto:madebydima@yandex.com" target="_blank">madebydima@yandex.com</a>
+- 🔗 **Projects:**: <a href="https://bullshitapp.com" target="_blank">JustScreener</a>, <a href="https://myaerial.ru" target="_blank">My Aerial</a>
 
 ---
 
