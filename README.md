@@ -75,7 +75,7 @@ package main
 type JustScreenerEngine struct {
     pairsProcessed    int    // 4,000+ crypto pairs
     messagesSent      int    // 1,000+ Telegram messages
-    activeUsers       int    // 5,000+ monthly users
+    activeUsers       int    // 7,000+ monthly users
     processingTime    string // "every minute"
 }
 
