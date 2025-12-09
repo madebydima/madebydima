@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 🏆 **Indie Hacker**: Solo founder of **<a href="https://bullshitapp.com" target="_blank">JustScreener</a>** - a high-load cryptocurrency screener processing **4,000+ trading pairs**
 - 📈 **Architecture Champion**: Successfully migrated JustScreener from PHP/Laravel to Golang, achieving **significant performance boost** and **infrastructure cost reduction**
 - 🌱 **Currently exploring**: Advanced microservices patterns and high-frequency data processing
-- 💡 **Fun Fact**: My pet project now serves **5,000+ monthly active users** and sends **30,000+ Telegram messages** - all built and maintained solo!
+- 💡 **Fun Fact**: My pet project now serves **7,000+ monthly active users** and sends **150,000+ Telegram messages** - all built and maintained solo!
 
 ## 🛠️ Tech Stack
 
