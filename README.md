@@ -100,7 +100,7 @@ func (j *JustScreenerEngine) Run() {
 - 🚀 **Solo Development**: Single-handedly built everything from design to deployment
 - 📊 **High-Load Architecture**: Processes millions of data points daily
 - 💰 **Cost Optimization**: Reduced infrastructure costs by migrating to Golang
-- 👥 **Growing Community**: Serving 5,000+ monthly active traders
+- 👥 **Growing Community**: Serving 7,000+ monthly users
 - 🔄 **Real-time Processing**: Minute-by-minute market analysis and alerts
 
 <!--
